@@ -1,4 +1,7 @@
 ## Hi there 👋
+Meu nome é Matheus, tenho 16 anos 
+Sou estudante do Alura, da escola Laura de Mello
+
 
 <!--
 **mth016/mth016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
